@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "studydeck-19f8e",
+          "appId": "1:246401582132:android:180a1cc6e78e07ae24f661",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "studydeck-19f8e",
+          "configurations": {
+            "android": "1:246401582132:android:180a1cc6e78e07ae24f661",
+            "web": "1:246401582132:web:c9bac2375929c1d224f661"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246401582132",
+    "project_id": "studydeck-19f8e",
+    "storage_bucket": "studydeck-19f8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246401582132:android:180a1cc6e78e07ae24f661",
+        "android_client_info": {
+          "package_name": "com.studydeck.study_deck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKyPzfqxqEy29SEoRq9S-18OlmgauluE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
